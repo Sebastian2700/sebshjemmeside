@@ -1,0 +1,81 @@
+body {
+  background-color: rgb(255, 228, 156);
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+/* Bokse */
+.box {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 12px;
+}
+
+/* Overskrifter */
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+}
+
+/* Billeder */
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+/* Link som knap */
+.link {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+body {
+  background-color: rgb(255, 228, 156);
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.box {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 12px;
+}
+
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+body {
+  background-color: rgb(255, 228, 156);
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+.box {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 12px;
+}
+
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
